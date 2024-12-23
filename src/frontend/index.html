@@ -3,10 +3,54 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gene Scope AI</title>
+    <title>Gene Scope AI Dashboard</title>
+    <script src="app.js" defer></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        main {
+            padding: 2rem;
+        }
+        .container {
+            margin-bottom: 2rem;
+        }
+        button {
+            margin-top: 1rem;
+            padding: 0.5rem 1rem;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
 </head>
 <body>
-    <h1>Welcome to Gene Scope AI</h1>
-    <p>AI-powered insights into genetic ecosystems.</p>
+    <header>
+        <h1>Gene Scope AI Dashboard</h1>
+    </header>
+    <main>
+        <div class="container">
+            <h3>AI Model Prediction</h3>
+            <input type="text" id="aiInput" placeholder="Enter numeric input">
+            <button onclick="predictAI()">Get Prediction</button>
+            <p id="aiResult"></p>
+        </div>
+
+        <div class="container">
+            <h3>Blockchain Traceability</h3>
+            <input type="text" id="blockchainInput" placeholder="Enter data">
+            <button onclick="traceBlockchain()">Generate Hash</button>
+            <p id="blockchainResult"></p>
+        </div>
+    </main>
 </body>
 </html>
