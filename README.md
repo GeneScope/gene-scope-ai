@@ -52,7 +52,7 @@ GeneScope-AI/
 
 ---
 
-## 🚀 **Getting Started**  
+##  **Getting Started**  
 Follow these steps to set up and run GeneScope AI locally:
 
 1. **Clone the Repository:**  
