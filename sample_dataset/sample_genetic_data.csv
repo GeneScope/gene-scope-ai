@@ -1,0 +1,6 @@
+gene_id,gene_expression,mutation_type,age,health_status
+GENE001,1.23,TYPE_A,25,Healthy
+GENE002,3.45,TYPE_B,35,Unhealthy
+GENE003,2.78,TYPE_A,45,Healthy
+GENE004,0.89,TYPE_C,50,Unhealthy
+GENE005,1.95,TYPE_B,30,Healthy
