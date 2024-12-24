@@ -111,7 +111,7 @@ Explore our detailed documentation in the `/docs` folder for technical insights 
 
 ## 📢 **Stay Connected**  
 🔗 **Follow us on Twitter:** [@GeneScopeAI](https://twitter.com/GeneScopeAI)  
-🌐 **Website:** https://genescopeai.bio
+🌐 **Website:** https://genescopeai.com
 
 **Let’s redefine the future of genomics together!** 🚀  
 
