@@ -4,3 +4,10 @@ GENE002,3.45,TYPE_B,35,Unhealthy
 GENE003,2.78,TYPE_A,45,Healthy
 GENE004,0.89,TYPE_C,50,Unhealthy
 GENE005,1.95,TYPE_B,30,Healthy
+
+patient_id,mutation,gene_expression
+P001,KRAS G12,High
+P002,NRAS G12D,Medium
+P003,BRAF V600E,Low
+P004,TP53,High
+P005,KRAS G12,Medium
