@@ -57,7 +57,7 @@ Follow these steps to set up and run GeneScope AI locally:
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/your-repo-link
+   git clone https://github.com/GeneScope/gene-scope-ai
    cd genescope-ai
 
 2. **Install Dependencies:**  
@@ -111,7 +111,7 @@ Explore our detailed documentation in the `/docs` folder for technical insights 
 
 ## 📢 **Stay Connected**  
 🔗 **Follow us on Twitter:** [@GeneScopeAI](https://twitter.com/GeneScopeAI)  
-🌐 **Website:** https://genescopeai.bio
+🌐 **Website:** https://genescopeai.com
 
 **Let’s redefine the future of genomics together!** 🚀  
 
